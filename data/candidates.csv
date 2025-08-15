@@ -1,0 +1,121 @@
+candidate_id,full_name,role_applied,source,applied_date,years_experience,current_location,status
+1001,Candidate 1,Python Developer,Job Board,2024-09-11,4.1,AZ,Interviewing
+1002,Candidate 2,BI Developer,LinkedIn,2024-07-22,2.7,AZ,Applied
+1003,Candidate 3,BI Developer,LinkedIn,2024-09-01,2.1,Remote,Applied
+1004,Candidate 4,BI Developer,LinkedIn,2024-06-15,4.7,AZ,Applied
+1005,Candidate 5,Data Analyst,Job Board,2024-09-15,5.6,NY,Applied
+1006,Candidate 6,Python Developer,LinkedIn,2024-08-11,5.4,WA,Applied
+1007,Candidate 7,Data Engineer,LinkedIn,2024-07-31,1.8,AZ,Interviewing
+1008,Candidate 8,Cloud Engineer,LinkedIn,2024-06-21,2.9,Remote,Interviewing
+1009,Candidate 9,Data Engineer,LinkedIn,2024-09-11,4.2,NY,Offered
+1010,Candidate 10,Python Developer,Careers Site,2024-08-22,5.5,CA,Rejected
+1011,Candidate 11,Cloud Engineer,Job Board,2024-08-26,2.5,CA,Interviewing
+1012,Candidate 12,Python Developer,Referral,2024-08-14,3.1,NY,Offered
+1013,Candidate 13,BI Developer,LinkedIn,2024-08-14,1.3,Remote,Offered
+1014,Candidate 14,Cloud Engineer,Referral,2024-08-27,1.1,NY,Screened
+1015,Candidate 15,BI Developer,Referral,2024-09-25,5.1,WA,Applied
+1016,Candidate 16,Data Engineer,LinkedIn,2024-09-08,6.2,WA,Applied
+1017,Candidate 17,Data Engineer,LinkedIn,2024-09-12,3.4,CA,Screened
+1018,Candidate 18,Cloud Engineer,LinkedIn,2024-06-24,5.5,AZ,Screened
+1019,Candidate 19,Cloud Engineer,Job Board,2024-06-03,4.2,Remote,Applied
+1020,Candidate 20,Python Developer,Job Board,2024-06-22,2.2,CA,Rejected
+1021,Candidate 21,Python Developer,LinkedIn,2024-07-23,4.2,AZ,Offered
+1022,Candidate 22,BI Developer,LinkedIn,2024-06-02,6.6,AZ,Applied
+1023,Candidate 23,Cloud Engineer,Job Board,2024-08-27,3.4,WA,Screened
+1024,Candidate 24,Data Engineer,Referral,2024-09-16,6.6,TX,Applied
+1025,Candidate 25,Python Developer,Careers Site,2024-06-30,0.0,TX,Interviewing
+1026,Candidate 26,Python Developer,Job Board,2024-07-08,5.1,NY,Interviewing
+1027,Candidate 27,Data Engineer,LinkedIn,2024-06-02,3.7,WA,Rejected
+1028,Candidate 28,Python Developer,LinkedIn,2024-08-03,2.9,AZ,Screened
+1029,Candidate 29,BI Developer,Job Board,2024-07-30,3.7,Remote,Rejected
+1030,Candidate 30,Cloud Engineer,LinkedIn,2024-06-21,0.0,TX,Hired
+1031,Candidate 31,Data Engineer,Referral,2024-07-03,3.1,AZ,Applied
+1032,Candidate 32,Cloud Engineer,Recruiter,2024-08-15,4.2,TX,Offered
+1033,Candidate 33,Python Developer,Referral,2024-07-28,6.5,TX,Interviewing
+1034,Candidate 34,Python Developer,LinkedIn,2024-06-22,2.5,TX,Interviewing
+1035,Candidate 35,Data Engineer,Job Board,2024-09-16,1.9,Remote,Screened
+1036,Candidate 36,BI Developer,Referral,2024-08-28,2.5,WA,Offered
+1037,Candidate 37,Data Analyst,Referral,2024-07-19,5.3,Remote,Interviewing
+1038,Candidate 38,Data Engineer,Recruiter,2024-08-30,4.2,CA,Rejected
+1039,Candidate 39,Data Analyst,LinkedIn,2024-07-29,2.4,AZ,Rejected
+1040,Candidate 40,Data Analyst,Recruiter,2024-07-12,4.5,WA,Interviewing
+1041,Candidate 41,BI Developer,Recruiter,2024-08-31,3.7,WA,Hired
+1042,Candidate 42,Data Analyst,LinkedIn,2024-07-30,5.4,WA,Interviewing
+1043,Candidate 43,Data Analyst,LinkedIn,2024-08-19,2.1,WA,Interviewing
+1044,Candidate 44,BI Developer,LinkedIn,2024-06-15,2.8,Remote,Interviewing
+1045,Candidate 45,Data Analyst,LinkedIn,2024-08-01,2.7,WA,Applied
+1046,Candidate 46,Data Analyst,LinkedIn,2024-08-01,0.6,NY,Offered
+1047,Candidate 47,Data Analyst,Job Board,2024-07-17,4.1,AZ,Interviewing
+1048,Candidate 48,Data Engineer,LinkedIn,2024-08-01,4.0,WA,Interviewing
+1049,Candidate 49,Data Engineer,LinkedIn,2024-07-21,3.5,AZ,Rejected
+1050,Candidate 50,Data Engineer,Careers Site,2024-09-16,3.0,NY,Screened
+1051,Candidate 51,BI Developer,LinkedIn,2024-07-25,0.7,NY,Interviewing
+1052,Candidate 52,Python Developer,Careers Site,2024-09-24,2.7,AZ,Interviewing
+1053,Candidate 53,Data Analyst,LinkedIn,2024-08-03,2.8,TX,Offered
+1054,Candidate 54,Data Analyst,LinkedIn,2024-06-03,1.9,CA,Interviewing
+1055,Candidate 55,BI Developer,Job Board,2024-09-09,3.2,TX,Rejected
+1056,Candidate 56,Data Analyst,Job Board,2024-07-21,4.3,TX,Offered
+1057,Candidate 57,Data Engineer,Careers Site,2024-06-07,7.3,Remote,Applied
+1058,Candidate 58,Python Developer,Job Board,2024-06-21,3.8,TX,Applied
+1059,Candidate 59,Cloud Engineer,Careers Site,2024-08-12,4.0,WA,Interviewing
+1060,Candidate 60,Data Analyst,LinkedIn,2024-07-09,3.4,Remote,Screened
+1061,Candidate 61,Data Engineer,LinkedIn,2024-06-18,0.0,Remote,Applied
+1062,Candidate 62,Cloud Engineer,Job Board,2024-06-04,3.4,NY,Interviewing
+1063,Candidate 63,Python Developer,Careers Site,2024-08-28,3.6,TX,Screened
+1064,Candidate 64,Cloud Engineer,Recruiter,2024-07-30,8.4,NY,Interviewing
+1065,Candidate 65,Data Engineer,LinkedIn,2024-06-14,3.1,AZ,Interviewing
+1066,Candidate 66,Cloud Engineer,LinkedIn,2024-09-22,4.1,CA,Interviewing
+1067,Candidate 67,BI Developer,Job Board,2024-06-09,3.4,Remote,Screened
+1068,Candidate 68,Cloud Engineer,LinkedIn,2024-08-29,1.2,AZ,Interviewing
+1069,Candidate 69,Data Analyst,Recruiter,2024-07-23,5.8,AZ,Applied
+1070,Candidate 70,Data Analyst,Careers Site,2024-06-02,5.0,WA,Interviewing
+1071,Candidate 71,BI Developer,LinkedIn,2024-08-23,5.1,CA,Screened
+1072,Candidate 72,Data Engineer,Job Board,2024-08-31,1.7,AZ,Rejected
+1073,Candidate 73,Data Analyst,Job Board,2024-09-19,6.3,AZ,Interviewing
+1074,Candidate 74,Python Developer,LinkedIn,2024-07-30,0.7,CA,Hired
+1075,Candidate 75,Data Analyst,Recruiter,2024-08-10,4.7,CA,Interviewing
+1076,Candidate 76,Data Analyst,Referral,2024-07-14,7.9,AZ,Applied
+1077,Candidate 77,Data Engineer,Careers Site,2024-06-08,1.5,CA,Rejected
+1078,Candidate 78,Cloud Engineer,LinkedIn,2024-07-17,2.4,AZ,Screened
+1079,Candidate 79,Data Analyst,Careers Site,2024-07-05,3.7,AZ,Screened
+1080,Candidate 80,BI Developer,LinkedIn,2024-08-17,2.5,WA,Applied
+1081,Candidate 81,Cloud Engineer,LinkedIn,2024-08-20,0.4,TX,Interviewing
+1082,Candidate 82,Python Developer,Recruiter,2024-07-06,3.6,AZ,Interviewing
+1083,Candidate 83,Data Engineer,LinkedIn,2024-07-20,1.4,NY,Screened
+1084,Candidate 84,Python Developer,LinkedIn,2024-09-12,4.4,Remote,Rejected
+1085,Candidate 85,Cloud Engineer,Recruiter,2024-06-04,1.7,TX,Applied
+1086,Candidate 86,Cloud Engineer,Recruiter,2024-06-02,6.6,TX,Screened
+1087,Candidate 87,Cloud Engineer,Referral,2024-06-06,1.9,TX,Screened
+1088,Candidate 88,Python Developer,Job Board,2024-07-24,2.9,WA,Applied
+1089,Candidate 89,Cloud Engineer,LinkedIn,2024-09-14,5.1,AZ,Interviewing
+1090,Candidate 90,Python Developer,LinkedIn,2024-06-04,1.0,WA,Interviewing
+1091,Candidate 91,Cloud Engineer,LinkedIn,2024-07-24,4.0,AZ,Interviewing
+1092,Candidate 92,BI Developer,Job Board,2024-09-01,6.1,WA,Applied
+1093,Candidate 93,Cloud Engineer,Job Board,2024-08-02,0.3,WA,Screened
+1094,Candidate 94,Python Developer,Job Board,2024-06-18,3.9,Remote,Applied
+1095,Candidate 95,Data Analyst,Job Board,2024-08-29,4.0,NY,Rejected
+1096,Candidate 96,Cloud Engineer,LinkedIn,2024-07-14,5.1,WA,Applied
+1097,Candidate 97,Data Analyst,Referral,2024-07-04,1.0,Remote,Interviewing
+1098,Candidate 98,BI Developer,LinkedIn,2024-08-13,0.9,CA,Hired
+1099,Candidate 99,Data Engineer,Referral,2024-08-01,4.5,NY,Interviewing
+1100,Candidate 100,BI Developer,LinkedIn,2024-09-08,4.1,WA,Rejected
+1101,Candidate 101,Cloud Engineer,Careers Site,2024-06-14,4.0,TX,Applied
+1102,Candidate 102,Data Analyst,LinkedIn,2024-09-03,4.2,CA,Offered
+1103,Candidate 103,Data Analyst,LinkedIn,2024-07-18,2.1,CA,Interviewing
+1104,Candidate 104,Python Developer,LinkedIn,2024-06-15,4.0,Remote,Offered
+1105,Candidate 105,Data Analyst,Job Board,2024-08-11,4.1,CA,Applied
+1106,Candidate 106,Python Developer,Job Board,2024-08-17,2.1,NY,Applied
+1107,Candidate 107,Data Engineer,LinkedIn,2024-08-26,7.2,WA,Applied
+1108,Candidate 108,Cloud Engineer,LinkedIn,2024-08-01,4.4,WA,Interviewing
+1109,Candidate 109,Python Developer,Job Board,2024-07-10,1.1,TX,Rejected
+1110,Candidate 110,Data Engineer,LinkedIn,2024-08-24,4.8,Remote,Offered
+1111,Candidate 111,Data Analyst,Careers Site,2024-08-19,1.6,TX,Applied
+1112,Candidate 112,Data Analyst,Job Board,2024-09-17,5.1,CA,Rejected
+1113,Candidate 113,Data Engineer,LinkedIn,2024-08-21,5.8,TX,Screened
+1114,Candidate 114,Data Analyst,LinkedIn,2024-09-19,1.9,NY,Screened
+1115,Candidate 115,Data Engineer,Recruiter,2024-07-23,5.4,WA,Applied
+1116,Candidate 116,Python Developer,LinkedIn,2024-06-24,4.3,CA,Offered
+1117,Candidate 117,Python Developer,LinkedIn,2024-06-26,5.1,TX,Applied
+1118,Candidate 118,Data Engineer,Careers Site,2024-08-28,7.3,Remote,Interviewing
+1119,Candidate 119,Python Developer,Recruiter,2024-07-30,3.0,NY,Rejected
+1120,Candidate 120,Python Developer,Recruiter,2024-09-17,2.0,NY,Applied

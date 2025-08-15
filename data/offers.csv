@@ -1,0 +1,10 @@
+offer_id,candidate_id,role,offered_salary_usd,decision,decision_date
+8001,1009,Data Engineer,112873,Declined,2024-10-27
+8002,1012,Python Developer,131724,Accepted,2024-09-30
+8003,1021,Python Developer,102314,Accepted,2024-08-08
+8004,1030,Cloud Engineer,94021,Accepted,2024-07-20
+8005,1046,Data Analyst,105894,Declined,2024-08-27
+8006,1053,Data Analyst,95295,Declined,2024-09-06
+8007,1056,Data Analyst,124760,Declined,2024-08-30
+8008,1074,Python Developer,107963,Accepted,2024-08-27
+8009,1116,Python Developer,112842,Accepted,2024-08-09
