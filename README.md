@@ -2,7 +2,7 @@ Place sample or synthetic data here. Avoid uploading sensitive data.
 ## Results (Power BI)
 **Report:** [Download the PBIX](powerbi/RecruitingAnalytics.pbix)
 
-![Recruiting Analytics Dashboard](assets/dashboard.png)
+![Recruiting Analytics Dashboard](assets/report.png)
 
 ## How to run
 1) Run: `sql/01_create_staging.sql`
